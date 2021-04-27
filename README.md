@@ -2,6 +2,8 @@
 
 ++/-- mixed post and pre in same exp cause Undefined behavior and different result with many compiler
 
+[Topic on stackoverflow](https://stackoverflow.com/questions/949433/why-are-these-constructs-using-pre-and-post-increment-undefined-behavior#30914692)
+	
 ## clang on win10 give that : 
 
 by cmake
